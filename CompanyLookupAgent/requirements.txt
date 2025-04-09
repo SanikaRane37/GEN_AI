@@ -1,7 +1,0 @@
-openai
-langchain
-streamlit
-python-dotenv
-tqdm
-requests
-serpapi
